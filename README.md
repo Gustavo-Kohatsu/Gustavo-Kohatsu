@@ -25,7 +25,6 @@
 
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=ED8B00)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
