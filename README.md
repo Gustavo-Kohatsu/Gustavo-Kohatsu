@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5396ee&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5396ee&size=35&center=true&vCenter=true&width=1000&duration=6500&lines=Olá,+meu+nome+é+Gustavo+Kohatsu!;Desenvolvedor+no+Itaú+Unibanco;Formado+em+ADS+pela+SPTech;Sempre+aprendendo+algo+novo+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5396ee&size=35&center=true&vCenter=true&width=1000&duration=6500&lines=Olá,+meu+nome+é+Gustavo+Kohatsu!;Formado+em+ADS+pela+SPTech;Sempre+aprendendo+algo+novo+%3A%29)](https://git.io/typing-svg)
 
 <br/>
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
-  Tenho <strong>21 anos</strong>, sou de <strong>São Paulo</strong> 🇧🇷 e trabalho como dev no <strong>Itaú Unibanco</strong> 🏦<br/>
+  Tenho <strong>22 anos</strong>, sou de <strong>São Paulo</strong> 🇧🇷 e trabalho como dev no <strong>Itaú Unibanco</strong> 🏦<br/>
   Formado em ADS pela <strong>SPTech School</strong> — gosto de backend, cloud e de entender como as coisas funcionam por baixo dos panos.<br/>
   Nas horas vagas fico explorando IA, automações e coisas que talvez nunca vão pra produção, mas que aprendo muito fazendo.
 </p>
